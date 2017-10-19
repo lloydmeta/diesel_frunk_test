@@ -1,0 +1,1 @@
+## Testing Diesel with Frunk [![Build Status](https://travis-ci.org/lloydmeta/diesel_frunk_test.svg?branch=master)](https://travis-ci.org/lloydmeta/diesel_frunk_test)
